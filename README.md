@@ -1,12 +1,12 @@
 # ae-snow-generator-script
  generate customisable snow using solid layers as particles
 
-<p>to run, call:
-generateSnow(numParticles, flakeVariation, speedVariation, depth);
-// recommended ranges
-// numParticles: 100-1,000
-// flakeVariation: 0-20
-// speedVariation: 0-25
+<p>to run, call:<br>
+generateSnow(numParticles, flakeVariation, speedVariation, depth);<br>
+// recommended ranges<br>
+// numParticles: 100-1,000<br>
+// flakeVariation: 0-20<br>
+// speedVariation: 0-25<br>
 // depth: 0-10,000
 </p>
 <h3>Example</h3>
